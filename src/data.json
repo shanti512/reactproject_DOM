@@ -1,0 +1,112 @@
+{
+"profile":[
+    {
+        "basics":
+        { 
+            "name":"Shantipriya",
+            "pin":"Rajahmundry",
+            "college":"GIET",
+            "email":"priyabugge@gmail.com",
+            "Mobile":"8978284959"
+        },
+        "carrer": "Aiming to work as software developer and utilize my skills for growth of organisation",
+       "edu":
+       {
+           "btech":"GIET",
+           "bco":"B-tech (CSE)",
+           "bper":"82.8",
+           "byr":"2021",
+
+           "inter":"Sri Chaitanya Junior College",
+           "ico":"Inter",
+           "iper":"87",
+           "iyr":"2017",
+
+           "ssc":"Bhashyam public school",
+           "Sco":"CBSE",
+           "Sper":"80",
+           "Syr":"2015"
+       },
+       "skills":
+       {
+           "s":["Python","Java","C","Reactjs","SQL"]
+       },
+       
+       "hobby":
+       {
+           "h":["Drawing","Playing Badminton"]
+       },
+       "achieve":
+        {
+        "ai":[
+            
+            "Certified in NPTEL Java Certification with Elite gold ",
+            "Certified in NPTEL DBMS Certification with Elite" ,
+            "Certification course on Python Programming from Coursera ",
+            " Certification course on Cloud Computing Basics from Coursera "
+            
+            
+        ],
+        "declare":"I hereby declare that above mentioned details are true to the best of my Knowledge"
+    }
+    },
+    
+
+   
+
+    {
+        "basics":
+        { 
+            "name":"SARA",
+            "pin":"Hyderabad",
+            "college":"VIKAS engineering College",
+            "email":"vijay.81@gmail.com",
+            "Mobile":"9864609645"
+        },
+        "carrer": "Aiming to work as software developer and utilize my skills for growth of organisation",
+       "edu":
+       {
+           "btech":"Adithya engineering college ",
+           "bco":"B-tech (CSE)",
+           "bper":"94.4",
+           "byr":"2021",
+
+           "inter":"Sri Chaitanya Junior College",
+           "ico":"Inter",
+           "iper":"97",
+           "iyr":"2017",
+
+           "ssc":"NASA public school",
+           "Sco":"SSC",
+           "Sper":"95",
+           "Syr":"2015"
+       },
+       "skills":
+       {
+           "s":["Python","Java","C","Reactjs","SQL","HtML/CSS/JS"]
+       },
+       
+       "hobby":
+       {
+           "h":["Reading books","Playing keyboard","listenng to music"]
+       },
+       "achieve":
+        {
+        "ai":[
+            
+            "Certified in NPTEL Java Certification with Elite silver ",
+            "Certified in NPTEL DBMS Certification with Elite" ,
+            "Certification course on Python Programming from Coursera "
+            
+            
+            
+        ],
+        "declare":"I hereby declare that above mentioned details are true to the best of my Knowledge"
+    }
+}
+    
+
+    
+]
+
+}
